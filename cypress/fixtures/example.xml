@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd">
+        <gmd:fileIdentifier>
+            <gco:CharacterString>xxx</gco:CharacterString>
+        </gmd:fileIdentifier>
+        <gmd:language>
+            <gmd:LanguageCode xxx="hi"/>
+        </gmd:language>
+        <gmd:parentIdentifier>
+            <gco:CharacterString>yyyy</gco:CharacterString>
+        </gmd:parentIdentifier>
+        <gmd:dateStamp>
+            <gco:Date>2024-12-19</gco:Date>
+        </gmd:dateStamp>
+</gmd:MD_Metadata>

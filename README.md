@@ -4,7 +4,19 @@ Minimally working example with Server und Cypress Tests to test a reported bug r
 
 ## Instructions
 
-1. Install Cypress
-2. Run the Tests
-3. Compare output of the POST request in the runner, console (log) and console (request output)
-4. The runner's output is different: the "<" and ">" are stripped from the opening tags and as links interpreted 
+1. Install Cypress 
+2. Start the server `node server.js`
+3. Open cypress  `npx cypress open`
+4. run the Tests
+5. Compare output of the POST request in the runner, console (log) and console (request output). \
+Example:
+   ![Runner's and console's output](/bug_img/runner_console_output.png)
+6. The runner's output is different: the "<" and ">" are stripped from the opening tags and as links interpreted 
+
+
+
+## System Information
+- MS Windows 11 Pro
+- Cypress 14.4.0
+- node v22.17.1
+- npm 10.9.2
